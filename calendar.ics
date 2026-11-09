@@ -1,486 +1,446 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//library-kids-data//EN
-CALSCALE:GREGORIAN
+PRODID:-//Library Kids Schedule//EN
 METHOD:PUBLISH
+CALSCALE:GREGORIAN
 X-WR-CALNAME:Library Kids Events
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VTIMEZONE
 TZID:America/Los_Angeles
-BEGIN:DAYLIGHT
-TZOFFSETFROM:-0800
-TZOFFSETTO:-0700
-TZNAME:PDT
-DTSTART:19700308T020000
-RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
-END:DAYLIGHT
 BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 TZOFFSETFROM:-0700
 TZOFFSETTO:-0800
 TZNAME:PST
-DTSTART:19701101T020000
-RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:lib-kids-20261103-1030-cupertino@playground.local
-DTSTAMP:20261102T155709Z
-DTSTART;TZID=America/Los_Angeles:20261103T103000
-DTEND;TZID=America/Los_Angeles:20261103T110000
-SUMMARY:Toddler Storytime (cupertino)
-LOCATION:Cupertino Library\, 10800 Torre Ave\, Cupertino CA 95014
-DESCRIPTION:Storytime for toddlers
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:lib-kids-20261103-1030-milpitas@playground.local
-DTSTAMP:20261102T155709Z
-DTSTART;TZID=America/Los_Angeles:20261103T103000
-DTEND;TZID=America/Los_Angeles:20261103T110000
-SUMMARY:Baby Bouncers Lapsit (milpitas)
-LOCATION:Milpitas Library\, 160 N Main St\, Milpitas CA 95035
-DESCRIPTION:Baby lapsit and bouncing program
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:lib-kids-20261103-1900-cupertino@playground.local
-DTSTAMP:20261102T155709Z
-DTSTART;TZID=America/Los_Angeles:20261103T190000
-DTEND;TZID=America/Los_Angeles:20261103T193000
-SUMMARY:Bedtime Storytime (cupertino)
-LOCATION:Cupertino Library\, 10800 Torre Ave\, Cupertino CA 95014
-DESCRIPTION:Evening bedtime storytime for families
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:lib-kids-20261104-1030-central@playground.local
-DTSTAMP:20261102T155709Z
-DTSTART;TZID=America/Los_Angeles:20261104T103000
-DTEND;TZID=America/Los_Angeles:20261104T110000
-SUMMARY:Outdoor Family Storytime (central)
-LOCATION:Central Park Library\, 2635 Homestead Rd\, Santa Clara CA 95051
-DESCRIPTION:Outdoor storytime for the whole family
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:lib-kids-20261104-1030-northside@playground.local
-DTSTAMP:20261102T155709Z
-DTSTART;TZID=America/Los_Angeles:20261104T103000
-DTEND;TZID=America/Los_Angeles:20261104T110000
-SUMMARY:Baby & Me Storytime (northside)
-LOCATION:Northside Branch Library\, 695 Moreland Way\, Santa Clara CA 95054
-DESCRIPTION:Storytime for babies and caregivers — registration required
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:lib-kids-20261104-1030-cupertino@playground.local
-DTSTAMP:20261102T155709Z
-DTSTART;TZID=America/Los_Angeles:20261104T103000
-DTEND;TZID=America/Los_Angeles:20261104T110000
-SUMMARY:Music & Movement (cupertino)
-LOCATION:Cupertino Library\, 10800 Torre Ave\, Cupertino CA 95014
-DESCRIPTION:Music and movement for toddlers
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:lib-kids-20261104-1100-northside@playground.local
-DTSTAMP:20261102T155709Z
-DTSTART;TZID=America/Los_Angeles:20261104T110000
-DTEND;TZID=America/Los_Angeles:20261104T113000
-SUMMARY:Baby & Me Storytime (northside)
-LOCATION:Northside Branch Library\, 695 Moreland Way\, Santa Clara CA 95054
-DESCRIPTION:Storytime for babies and caregivers — registration required
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:lib-kids-20261104-1115-northside@playground.local
-DTSTAMP:20261102T155709Z
-DTSTART;TZID=America/Los_Angeles:20261104T111500
-DTEND;TZID=America/Los_Angeles:20261104T120000
-SUMMARY:Toddler Playdate (northside)
-LOCATION:Northside Branch Library\, 695 Moreland Way\, Santa Clara CA 95054
-DESCRIPTION:Toddler social play and activities
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:lib-kids-20261104-1900-cupertino@playground.local
-DTSTAMP:20261102T155709Z
-DTSTART;TZID=America/Los_Angeles:20261104T190000
-DTEND;TZID=America/Los_Angeles:20261104T193000
-SUMMARY:Goodnight Storytime (cupertino)
-LOCATION:Cupertino Library\, 10800 Torre Ave\, Cupertino CA 95014
-DESCRIPTION:Evening goodnight storytime for families
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:lib-kids-20261105-1030-cupertino@playground.local
-DTSTAMP:20261102T155709Z
-DTSTART;TZID=America/Los_Angeles:20261105T103000
-DTEND;TZID=America/Los_Angeles:20261105T110000
-SUMMARY:Baby Storytime (cupertino)
-LOCATION:Cupertino Library\, 10800 Torre Ave\, Cupertino CA 95014
-DESCRIPTION:Storytime for babies
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:lib-kids-20261106-1030-central@playground.local
-DTSTAMP:20261102T155709Z
-DTSTART;TZID=America/Los_Angeles:20261106T103000
-DTEND;TZID=America/Los_Angeles:20261106T110000
-SUMMARY:Outdoor Family Storytime (central)
-LOCATION:Central Park Library\, 2635 Homestead Rd\, Santa Clara CA 95051
-DESCRIPTION:Outdoor storytime for the whole family
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:lib-kids-20261106-1030-central-2@playground.local
-DTSTAMP:20261102T155709Z
-DTSTART;TZID=America/Los_Angeles:20261106T103000
-DTEND;TZID=America/Los_Angeles:20261106T110000
-SUMMARY:Baby & Me Storytime (central)
-LOCATION:Central Park Library\, 2635 Homestead Rd\, Santa Clara CA 95051
-DESCRIPTION:Storytime for babies and caregivers
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:lib-kids-20261106-1030-northside@playground.local
-DTSTAMP:20261102T155709Z
-DTSTART;TZID=America/Los_Angeles:20261106T103000
-DTEND;TZID=America/Los_Angeles:20261106T110000
-SUMMARY:Family Storytime (northside)
-LOCATION:Northside Branch Library\, 695 Moreland Way\, Santa Clara CA 95054
-DESCRIPTION:Family storytime — registration required
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:lib-kids-20261107-1100-cupertino@playground.local
-DTSTAMP:20261102T155709Z
-DTSTART;TZID=America/Los_Angeles:20261107T110000
-DTEND;TZID=America/Los_Angeles:20261107T113000
-SUMMARY:Family Storytime (cupertino)
-LOCATION:Cupertino Library\, 10800 Torre Ave\, Cupertino CA 95014
-DESCRIPTION:Family storytime for all ages
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:lib-kids-20261107-1100-milpitas@playground.local
-DTSTAMP:20261102T155709Z
-DTSTART;TZID=America/Los_Angeles:20261107T110000
-DTEND;TZID=America/Los_Angeles:20261107T113000
-SUMMARY:Family Storytime (milpitas)
-LOCATION:Milpitas Library\, 160 N Main St\, Milpitas CA 95035
-DESCRIPTION:Family storytime for all ages
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:lib-kids-20261107-1100-saratoga@playground.local
-DTSTAMP:20261102T155709Z
-DTSTART;TZID=America/Los_Angeles:20261107T110000
-DTEND;TZID=America/Los_Angeles:20261107T113000
-SUMMARY:Family Storytime (saratoga)
-LOCATION:Saratoga Library\, 13650 Saratoga Ave\, Saratoga CA 95070
-DESCRIPTION:Family storytime for all ages
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:lib-kids-20261110-1030-cupertino@playground.local
-DTSTAMP:20261102T155709Z
+DTSTAMP:20261109T141934Z
 DTSTART;TZID=America/Los_Angeles:20261110T103000
 DTEND;TZID=America/Los_Angeles:20261110T110000
 SUMMARY:Toddler Storytime (cupertino)
 LOCATION:Cupertino Library\, 10800 Torre Ave\, Cupertino CA 95014
-DESCRIPTION:Storytime for toddlers
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:lib-kids-20261110-1030-milpitas@playground.local
-DTSTAMP:20261102T155709Z
-DTSTART;TZID=America/Los_Angeles:20261110T103000
-DTEND;TZID=America/Los_Angeles:20261110T110000
-SUMMARY:Baby Bouncers Lapsit (milpitas)
-LOCATION:Milpitas Library\, 160 N Main St\, Milpitas CA 95035
-DESCRIPTION:Baby lapsit and bouncing program
+DESCRIPTION:Storytime for toddlers.
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:lib-kids-20261110-1900-cupertino@playground.local
-DTSTAMP:20261102T155709Z
+DTSTAMP:20261109T141934Z
 DTSTART;TZID=America/Los_Angeles:20261110T190000
 DTEND;TZID=America/Los_Angeles:20261110T193000
 SUMMARY:Bedtime Storytime (cupertino)
 LOCATION:Cupertino Library\, 10800 Torre Ave\, Cupertino CA 95014
-DESCRIPTION:Evening bedtime storytime for families
+DESCRIPTION:Evening bedtime storytime for families.
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lib-kids-20261110-1030-milpitas@playground.local
+DTSTAMP:20261109T141934Z
+DTSTART;TZID=America/Los_Angeles:20261110T103000
+DTEND;TZID=America/Los_Angeles:20261110T110000
+SUMMARY:Baby Bouncers Lapsit (milpitas)
+LOCATION:Milpitas Library\, 160 N Main St\, Milpitas CA 95035
+DESCRIPTION:Lapsit storytime for babies.
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:lib-kids-20261112-1030-cupertino@playground.local
-DTSTAMP:20261102T155709Z
+DTSTAMP:20261109T141934Z
 DTSTART;TZID=America/Los_Angeles:20261112T103000
 DTEND;TZID=America/Los_Angeles:20261112T110000
 SUMMARY:Baby Storytime (cupertino)
 LOCATION:Cupertino Library\, 10800 Torre Ave\, Cupertino CA 95014
-DESCRIPTION:Storytime for babies
+DESCRIPTION:Storytime for babies.
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:lib-kids-20261113-1030-central@playground.local
-DTSTAMP:20261102T155709Z
+DTSTAMP:20261109T141934Z
 DTSTART;TZID=America/Los_Angeles:20261113T103000
 DTEND;TZID=America/Los_Angeles:20261113T110000
 SUMMARY:Outdoor Family Storytime (central)
 LOCATION:Central Park Library\, 2635 Homestead Rd\, Santa Clara CA 95051
-DESCRIPTION:Outdoor storytime for the whole family
+DESCRIPTION:Outdoor storytime for the whole family.
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lib-kids-20261113-1030-central-2@playground.local
-DTSTAMP:20261102T155709Z
+UID:lib-kids-20261113-1030-central@playground.local
+DTSTAMP:20261109T141934Z
 DTSTART;TZID=America/Los_Angeles:20261113T103000
 DTEND;TZID=America/Los_Angeles:20261113T110000
 SUMMARY:Baby & Me Storytime (central)
 LOCATION:Central Park Library\, 2635 Homestead Rd\, Santa Clara CA 95051
-DESCRIPTION:Storytime for babies and caregivers
+DESCRIPTION:Storytime for babies and their caregivers.
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:lib-kids-20261113-1030-northside@playground.local
-DTSTAMP:20261102T155709Z
+DTSTAMP:20261109T141934Z
 DTSTART;TZID=America/Los_Angeles:20261113T103000
 DTEND;TZID=America/Los_Angeles:20261113T110000
 SUMMARY:Family Storytime (northside)
 LOCATION:Northside Branch Library\, 695 Moreland Way\, Santa Clara CA 95054
-DESCRIPTION:Family storytime — registration required
+DESCRIPTION:Family storytime. Registration required.
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:lib-kids-20261114-1100-cupertino@playground.local
-DTSTAMP:20261102T155709Z
+DTSTAMP:20261109T141934Z
 DTSTART;TZID=America/Los_Angeles:20261114T110000
 DTEND;TZID=America/Los_Angeles:20261114T113000
 SUMMARY:Family Storytime (cupertino)
 LOCATION:Cupertino Library\, 10800 Torre Ave\, Cupertino CA 95014
-DESCRIPTION:Family storytime for all ages
+DESCRIPTION:Family storytime.
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:lib-kids-20261114-1100-milpitas@playground.local
-DTSTAMP:20261102T155709Z
+DTSTAMP:20261109T141934Z
 DTSTART;TZID=America/Los_Angeles:20261114T110000
 DTEND;TZID=America/Los_Angeles:20261114T113000
 SUMMARY:Family Storytime (milpitas)
 LOCATION:Milpitas Library\, 160 N Main St\, Milpitas CA 95035
-DESCRIPTION:Family storytime for all ages
+DESCRIPTION:Family storytime.
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:lib-kids-20261114-1100-saratoga@playground.local
-DTSTAMP:20261102T155709Z
+DTSTAMP:20261109T141934Z
 DTSTART;TZID=America/Los_Angeles:20261114T110000
 DTEND;TZID=America/Los_Angeles:20261114T113000
 SUMMARY:Family Storytime (saratoga)
 LOCATION:Saratoga Library\, 13650 Saratoga Ave\, Saratoga CA 95070
-DESCRIPTION:Family storytime for all ages
+DESCRIPTION:Family storytime.
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:lib-kids-20261117-1030-cupertino@playground.local
-DTSTAMP:20261102T155709Z
+DTSTAMP:20261109T141934Z
 DTSTART;TZID=America/Los_Angeles:20261117T103000
 DTEND;TZID=America/Los_Angeles:20261117T110000
 SUMMARY:Toddler Storytime (cupertino)
 LOCATION:Cupertino Library\, 10800 Torre Ave\, Cupertino CA 95014
-DESCRIPTION:Storytime for toddlers
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:lib-kids-20261117-1030-milpitas@playground.local
-DTSTAMP:20261102T155709Z
-DTSTART;TZID=America/Los_Angeles:20261117T103000
-DTEND;TZID=America/Los_Angeles:20261117T110000
-SUMMARY:Baby Bouncers Lapsit (milpitas)
-LOCATION:Milpitas Library\, 160 N Main St\, Milpitas CA 95035
-DESCRIPTION:Baby lapsit and bouncing program
+DESCRIPTION:Storytime for toddlers.
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:lib-kids-20261117-1900-cupertino@playground.local
-DTSTAMP:20261102T155709Z
+DTSTAMP:20261109T141934Z
 DTSTART;TZID=America/Los_Angeles:20261117T190000
 DTEND;TZID=America/Los_Angeles:20261117T193000
 SUMMARY:Bedtime Storytime (cupertino)
 LOCATION:Cupertino Library\, 10800 Torre Ave\, Cupertino CA 95014
-DESCRIPTION:Evening bedtime storytime for families
+DESCRIPTION:Evening bedtime storytime for families.
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lib-kids-20261117-1030-milpitas@playground.local
+DTSTAMP:20261109T141934Z
+DTSTART;TZID=America/Los_Angeles:20261117T103000
+DTEND;TZID=America/Los_Angeles:20261117T110000
+SUMMARY:Baby Bouncers Lapsit (milpitas)
+LOCATION:Milpitas Library\, 160 N Main St\, Milpitas CA 95035
+DESCRIPTION:Lapsit storytime for babies.
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:lib-kids-20261118-1030-central@playground.local
-DTSTAMP:20261102T155709Z
+DTSTAMP:20261109T141934Z
 DTSTART;TZID=America/Los_Angeles:20261118T103000
 DTEND;TZID=America/Los_Angeles:20261118T110000
 SUMMARY:Outdoor Family Storytime (central)
 LOCATION:Central Park Library\, 2635 Homestead Rd\, Santa Clara CA 95051
-DESCRIPTION:Outdoor storytime for the whole family
+DESCRIPTION:Outdoor storytime for the whole family.
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:lib-kids-20261118-1030-northside@playground.local
-DTSTAMP:20261102T155709Z
+DTSTAMP:20261109T141934Z
 DTSTART;TZID=America/Los_Angeles:20261118T103000
 DTEND;TZID=America/Los_Angeles:20261118T110000
 SUMMARY:Baby & Me Storytime (northside)
 LOCATION:Northside Branch Library\, 695 Moreland Way\, Santa Clara CA 95054
-DESCRIPTION:Storytime for babies and caregivers — registration required
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:lib-kids-20261118-1030-cupertino@playground.local
-DTSTAMP:20261102T155709Z
-DTSTART;TZID=America/Los_Angeles:20261118T103000
-DTEND;TZID=America/Los_Angeles:20261118T110000
-SUMMARY:Music & Movement (cupertino)
-LOCATION:Cupertino Library\, 10800 Torre Ave\, Cupertino CA 95014
-DESCRIPTION:Music and movement for toddlers
+DESCRIPTION:Storytime for babies and their caregivers. Registration require
+ d.
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:lib-kids-20261118-1100-northside@playground.local
-DTSTAMP:20261102T155709Z
+DTSTAMP:20261109T141934Z
 DTSTART;TZID=America/Los_Angeles:20261118T110000
 DTEND;TZID=America/Los_Angeles:20261118T113000
 SUMMARY:Baby & Me Storytime (northside)
 LOCATION:Northside Branch Library\, 695 Moreland Way\, Santa Clara CA 95054
-DESCRIPTION:Storytime for babies and caregivers — registration required
+DESCRIPTION:Storytime for babies and their caregivers. Registration require
+ d.
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:lib-kids-20261118-1115-northside@playground.local
-DTSTAMP:20261102T155709Z
+DTSTAMP:20261109T141934Z
 DTSTART;TZID=America/Los_Angeles:20261118T111500
 DTEND;TZID=America/Los_Angeles:20261118T120000
 SUMMARY:Toddler Playdate (northside)
 LOCATION:Northside Branch Library\, 695 Moreland Way\, Santa Clara CA 95054
-DESCRIPTION:Toddler social play and activities
+DESCRIPTION:Fun playdate for toddlers.
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lib-kids-20261118-1030-cupertino@playground.local
+DTSTAMP:20261109T141934Z
+DTSTART;TZID=America/Los_Angeles:20261118T103000
+DTEND;TZID=America/Los_Angeles:20261118T110000
+SUMMARY:Music & Movement (cupertino)
+LOCATION:Cupertino Library\, 10800 Torre Ave\, Cupertino CA 95014
+DESCRIPTION:Music and movement for toddlers.
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:lib-kids-20261118-1900-cupertino@playground.local
-DTSTAMP:20261102T155709Z
+DTSTAMP:20261109T141934Z
 DTSTART;TZID=America/Los_Angeles:20261118T190000
 DTEND;TZID=America/Los_Angeles:20261118T193000
 SUMMARY:Goodnight Storytime (cupertino)
 LOCATION:Cupertino Library\, 10800 Torre Ave\, Cupertino CA 95014
-DESCRIPTION:Evening goodnight storytime for families
+DESCRIPTION:Evening goodnight storytime for families.
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:lib-kids-20261119-1030-cupertino@playground.local
-DTSTAMP:20261102T155709Z
+DTSTAMP:20261109T141934Z
 DTSTART;TZID=America/Los_Angeles:20261119T103000
 DTEND;TZID=America/Los_Angeles:20261119T110000
 SUMMARY:Baby Storytime (cupertino)
 LOCATION:Cupertino Library\, 10800 Torre Ave\, Cupertino CA 95014
-DESCRIPTION:Storytime for babies
+DESCRIPTION:Storytime for babies.
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:lib-kids-20261120-1030-central@playground.local
-DTSTAMP:20261102T155709Z
+DTSTAMP:20261109T141934Z
 DTSTART;TZID=America/Los_Angeles:20261120T103000
 DTEND;TZID=America/Los_Angeles:20261120T110000
 SUMMARY:Outdoor Family Storytime (central)
 LOCATION:Central Park Library\, 2635 Homestead Rd\, Santa Clara CA 95051
-DESCRIPTION:Outdoor storytime for the whole family
+DESCRIPTION:Outdoor storytime for the whole family.
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lib-kids-20261120-1030-central-2@playground.local
-DTSTAMP:20261102T155709Z
+UID:lib-kids-20261120-1030-central@playground.local
+DTSTAMP:20261109T141934Z
 DTSTART;TZID=America/Los_Angeles:20261120T103000
 DTEND;TZID=America/Los_Angeles:20261120T110000
 SUMMARY:Baby & Me Storytime (central)
 LOCATION:Central Park Library\, 2635 Homestead Rd\, Santa Clara CA 95051
-DESCRIPTION:Storytime for babies and caregivers
+DESCRIPTION:Storytime for babies and their caregivers.
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:lib-kids-20261120-1030-northside@playground.local
-DTSTAMP:20261102T155709Z
+DTSTAMP:20261109T141934Z
 DTSTART;TZID=America/Los_Angeles:20261120T103000
 DTEND;TZID=America/Los_Angeles:20261120T110000
 SUMMARY:Family Storytime (northside)
 LOCATION:Northside Branch Library\, 695 Moreland Way\, Santa Clara CA 95054
-DESCRIPTION:Family storytime — registration required
+DESCRIPTION:Family storytime. Registration required.
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:lib-kids-20261121-1100-cupertino@playground.local
-DTSTAMP:20261102T155709Z
+DTSTAMP:20261109T141934Z
 DTSTART;TZID=America/Los_Angeles:20261121T110000
 DTEND;TZID=America/Los_Angeles:20261121T113000
 SUMMARY:Family Storytime (cupertino)
 LOCATION:Cupertino Library\, 10800 Torre Ave\, Cupertino CA 95014
-DESCRIPTION:Family storytime for all ages
+DESCRIPTION:Family storytime.
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:lib-kids-20261121-1100-milpitas@playground.local
-DTSTAMP:20261102T155709Z
+DTSTAMP:20261109T141934Z
 DTSTART;TZID=America/Los_Angeles:20261121T110000
 DTEND;TZID=America/Los_Angeles:20261121T113000
 SUMMARY:Family Storytime (milpitas)
 LOCATION:Milpitas Library\, 160 N Main St\, Milpitas CA 95035
-DESCRIPTION:Family storytime for all ages
+DESCRIPTION:Family storytime.
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:lib-kids-20261121-1100-saratoga@playground.local
-DTSTAMP:20261102T155709Z
+DTSTAMP:20261109T141934Z
 DTSTART;TZID=America/Los_Angeles:20261121T110000
 DTEND;TZID=America/Los_Angeles:20261121T113000
 SUMMARY:Family Storytime (saratoga)
 LOCATION:Saratoga Library\, 13650 Saratoga Ave\, Saratoga CA 95070
-DESCRIPTION:Family storytime for all ages
+DESCRIPTION:Family storytime.
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lib-kids-20261124-1030-cupertino@playground.local
+DTSTAMP:20261109T141934Z
+DTSTART;TZID=America/Los_Angeles:20261124T103000
+DTEND;TZID=America/Los_Angeles:20261124T110000
+SUMMARY:Toddler Storytime (cupertino)
+LOCATION:Cupertino Library\, 10800 Torre Ave\, Cupertino CA 95014
+DESCRIPTION:Storytime for toddlers.
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lib-kids-20261124-1900-cupertino@playground.local
+DTSTAMP:20261109T141934Z
+DTSTART;TZID=America/Los_Angeles:20261124T190000
+DTEND;TZID=America/Los_Angeles:20261124T193000
+SUMMARY:Bedtime Storytime (cupertino)
+LOCATION:Cupertino Library\, 10800 Torre Ave\, Cupertino CA 95014
+DESCRIPTION:Evening bedtime storytime for families.
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lib-kids-20261124-1030-milpitas@playground.local
+DTSTAMP:20261109T141934Z
+DTSTART;TZID=America/Los_Angeles:20261124T103000
+DTEND;TZID=America/Los_Angeles:20261124T110000
+SUMMARY:Baby Bouncers Lapsit (milpitas)
+LOCATION:Milpitas Library\, 160 N Main St\, Milpitas CA 95035
+DESCRIPTION:Lapsit storytime for babies.
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lib-kids-20261125-1030-central@playground.local
+DTSTAMP:20261109T141934Z
+DTSTART;TZID=America/Los_Angeles:20261125T103000
+DTEND;TZID=America/Los_Angeles:20261125T110000
+SUMMARY:Outdoor Family Storytime (central)
+LOCATION:Central Park Library\, 2635 Homestead Rd\, Santa Clara CA 95051
+DESCRIPTION:Outdoor storytime for the whole family.
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lib-kids-20261125-1030-northside@playground.local
+DTSTAMP:20261109T141934Z
+DTSTART;TZID=America/Los_Angeles:20261125T103000
+DTEND;TZID=America/Los_Angeles:20261125T110000
+SUMMARY:Baby & Me Storytime (northside)
+LOCATION:Northside Branch Library\, 695 Moreland Way\, Santa Clara CA 95054
+DESCRIPTION:Storytime for babies and their caregivers. Registration require
+ d.
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lib-kids-20261125-1100-northside@playground.local
+DTSTAMP:20261109T141934Z
+DTSTART;TZID=America/Los_Angeles:20261125T110000
+DTEND;TZID=America/Los_Angeles:20261125T113000
+SUMMARY:Baby & Me Storytime (northside)
+LOCATION:Northside Branch Library\, 695 Moreland Way\, Santa Clara CA 95054
+DESCRIPTION:Storytime for babies and their caregivers. Registration require
+ d.
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lib-kids-20261125-1115-northside@playground.local
+DTSTAMP:20261109T141934Z
+DTSTART;TZID=America/Los_Angeles:20261125T111500
+DTEND;TZID=America/Los_Angeles:20261125T120000
+SUMMARY:Toddler Playdate (northside)
+LOCATION:Northside Branch Library\, 695 Moreland Way\, Santa Clara CA 95054
+DESCRIPTION:Fun playdate for toddlers.
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lib-kids-20261125-1030-cupertino@playground.local
+DTSTAMP:20261109T141934Z
+DTSTART;TZID=America/Los_Angeles:20261125T103000
+DTEND;TZID=America/Los_Angeles:20261125T110000
+SUMMARY:Music & Movement (cupertino)
+LOCATION:Cupertino Library\, 10800 Torre Ave\, Cupertino CA 95014
+DESCRIPTION:Music and movement for toddlers.
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lib-kids-20261125-1900-cupertino@playground.local
+DTSTAMP:20261109T141934Z
+DTSTART;TZID=America/Los_Angeles:20261125T190000
+DTEND;TZID=America/Los_Angeles:20261125T193000
+SUMMARY:Goodnight Storytime (cupertino)
+LOCATION:Cupertino Library\, 10800 Torre Ave\, Cupertino CA 95014
+DESCRIPTION:Evening goodnight storytime for families.
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lib-kids-20261128-1100-cupertino@playground.local
+DTSTAMP:20261109T141934Z
+DTSTART;TZID=America/Los_Angeles:20261128T110000
+DTEND;TZID=America/Los_Angeles:20261128T113000
+SUMMARY:Family Storytime (cupertino)
+LOCATION:Cupertino Library\, 10800 Torre Ave\, Cupertino CA 95014
+DESCRIPTION:Family storytime.
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lib-kids-20261128-1100-milpitas@playground.local
+DTSTAMP:20261109T141934Z
+DTSTART;TZID=America/Los_Angeles:20261128T110000
+DTEND;TZID=America/Los_Angeles:20261128T113000
+SUMMARY:Family Storytime (milpitas)
+LOCATION:Milpitas Library\, 160 N Main St\, Milpitas CA 95035
+DESCRIPTION:Family storytime.
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lib-kids-20261128-1100-saratoga@playground.local
+DTSTAMP:20261109T141934Z
+DTSTART;TZID=America/Los_Angeles:20261128T110000
+DTEND;TZID=America/Los_Angeles:20261128T113000
+SUMMARY:Family Storytime (saratoga)
+LOCATION:Saratoga Library\, 13650 Saratoga Ave\, Saratoga CA 95070
+DESCRIPTION:Family storytime.
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT

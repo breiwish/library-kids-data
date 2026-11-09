@@ -1,198 +1,6 @@
 {
-  "generated_at": "2026-11-02T15:57:09Z",
+  "generated_at": "2026-11-09T14:19:19Z",
   "events": [
-    {
-      "uid": "lib-kids-20261103-1030-cupertino@playground.local",
-      "title": "Toddler Storytime",
-      "branch": "cupertino",
-      "system": "sccl",
-      "start": "2026-11-03T10:30:00-08:00",
-      "end": "2026-11-03T11:00:00-08:00",
-      "age": "toddler",
-      "location": "Cupertino Library, 10800 Torre Ave, Cupertino CA 95014",
-      "registration_required": false,
-      "description": "Storytime for toddlers"
-    },
-    {
-      "uid": "lib-kids-20261103-1030-milpitas@playground.local",
-      "title": "Baby Bouncers Lapsit",
-      "branch": "milpitas",
-      "system": "sccl",
-      "start": "2026-11-03T10:30:00-08:00",
-      "end": "2026-11-03T11:00:00-08:00",
-      "age": "baby",
-      "location": "Milpitas Library, 160 N Main St, Milpitas CA 95035",
-      "registration_required": false,
-      "description": "Baby lapsit and bouncing program"
-    },
-    {
-      "uid": "lib-kids-20261103-1900-cupertino@playground.local",
-      "title": "Bedtime Storytime",
-      "branch": "cupertino",
-      "system": "sccl",
-      "start": "2026-11-03T19:00:00-08:00",
-      "end": "2026-11-03T19:30:00-08:00",
-      "age": "family",
-      "location": "Cupertino Library, 10800 Torre Ave, Cupertino CA 95014",
-      "registration_required": false,
-      "description": "Evening bedtime storytime for families"
-    },
-    {
-      "uid": "lib-kids-20261104-1030-central@playground.local",
-      "title": "Outdoor Family Storytime",
-      "branch": "central",
-      "system": "sccity",
-      "start": "2026-11-04T10:30:00-08:00",
-      "end": "2026-11-04T11:00:00-08:00",
-      "age": "family",
-      "location": "Central Park Library, 2635 Homestead Rd, Santa Clara CA 95051",
-      "registration_required": false,
-      "description": "Outdoor storytime for the whole family"
-    },
-    {
-      "uid": "lib-kids-20261104-1030-northside@playground.local",
-      "title": "Baby & Me Storytime",
-      "branch": "northside",
-      "system": "sccity",
-      "start": "2026-11-04T10:30:00-08:00",
-      "end": "2026-11-04T11:00:00-08:00",
-      "age": "0-1.5y",
-      "location": "Northside Branch Library, 695 Moreland Way, Santa Clara CA 95054",
-      "registration_required": true,
-      "description": "Storytime for babies and caregivers \u2014 registration required"
-    },
-    {
-      "uid": "lib-kids-20261104-1030-cupertino@playground.local",
-      "title": "Music & Movement",
-      "branch": "cupertino",
-      "system": "sccl",
-      "start": "2026-11-04T10:30:00-08:00",
-      "end": "2026-11-04T11:00:00-08:00",
-      "age": "toddler",
-      "location": "Cupertino Library, 10800 Torre Ave, Cupertino CA 95014",
-      "registration_required": false,
-      "description": "Music and movement for toddlers"
-    },
-    {
-      "uid": "lib-kids-20261104-1100-northside@playground.local",
-      "title": "Baby & Me Storytime",
-      "branch": "northside",
-      "system": "sccity",
-      "start": "2026-11-04T11:00:00-08:00",
-      "end": "2026-11-04T11:30:00-08:00",
-      "age": "0-1.5y",
-      "location": "Northside Branch Library, 695 Moreland Way, Santa Clara CA 95054",
-      "registration_required": true,
-      "description": "Storytime for babies and caregivers \u2014 registration required"
-    },
-    {
-      "uid": "lib-kids-20261104-1115-northside@playground.local",
-      "title": "Toddler Playdate",
-      "branch": "northside",
-      "system": "sccity",
-      "start": "2026-11-04T11:15:00-08:00",
-      "end": "2026-11-04T12:00:00-08:00",
-      "age": "toddler",
-      "location": "Northside Branch Library, 695 Moreland Way, Santa Clara CA 95054",
-      "registration_required": false,
-      "description": "Toddler social play and activities"
-    },
-    {
-      "uid": "lib-kids-20261104-1900-cupertino@playground.local",
-      "title": "Goodnight Storytime",
-      "branch": "cupertino",
-      "system": "sccl",
-      "start": "2026-11-04T19:00:00-08:00",
-      "end": "2026-11-04T19:30:00-08:00",
-      "age": "family",
-      "location": "Cupertino Library, 10800 Torre Ave, Cupertino CA 95014",
-      "registration_required": false,
-      "description": "Evening goodnight storytime for families"
-    },
-    {
-      "uid": "lib-kids-20261105-1030-cupertino@playground.local",
-      "title": "Baby Storytime",
-      "branch": "cupertino",
-      "system": "sccl",
-      "start": "2026-11-05T10:30:00-08:00",
-      "end": "2026-11-05T11:00:00-08:00",
-      "age": "baby",
-      "location": "Cupertino Library, 10800 Torre Ave, Cupertino CA 95014",
-      "registration_required": false,
-      "description": "Storytime for babies"
-    },
-    {
-      "uid": "lib-kids-20261106-1030-central@playground.local",
-      "title": "Outdoor Family Storytime",
-      "branch": "central",
-      "system": "sccity",
-      "start": "2026-11-06T10:30:00-08:00",
-      "end": "2026-11-06T11:00:00-08:00",
-      "age": "family",
-      "location": "Central Park Library, 2635 Homestead Rd, Santa Clara CA 95051",
-      "registration_required": false,
-      "description": "Outdoor storytime for the whole family"
-    },
-    {
-      "uid": "lib-kids-20261106-1030-central-2@playground.local",
-      "title": "Baby & Me Storytime",
-      "branch": "central",
-      "system": "sccity",
-      "start": "2026-11-06T10:30:00-08:00",
-      "end": "2026-11-06T11:00:00-08:00",
-      "age": "0-1.5y",
-      "location": "Central Park Library, 2635 Homestead Rd, Santa Clara CA 95051",
-      "registration_required": false,
-      "description": "Storytime for babies and caregivers"
-    },
-    {
-      "uid": "lib-kids-20261106-1030-northside@playground.local",
-      "title": "Family Storytime",
-      "branch": "northside",
-      "system": "sccity",
-      "start": "2026-11-06T10:30:00-08:00",
-      "end": "2026-11-06T11:00:00-08:00",
-      "age": "family",
-      "location": "Northside Branch Library, 695 Moreland Way, Santa Clara CA 95054",
-      "registration_required": true,
-      "description": "Family storytime \u2014 registration required"
-    },
-    {
-      "uid": "lib-kids-20261107-1100-cupertino@playground.local",
-      "title": "Family Storytime",
-      "branch": "cupertino",
-      "system": "sccl",
-      "start": "2026-11-07T11:00:00-08:00",
-      "end": "2026-11-07T11:30:00-08:00",
-      "age": "family",
-      "location": "Cupertino Library, 10800 Torre Ave, Cupertino CA 95014",
-      "registration_required": false,
-      "description": "Family storytime for all ages"
-    },
-    {
-      "uid": "lib-kids-20261107-1100-milpitas@playground.local",
-      "title": "Family Storytime",
-      "branch": "milpitas",
-      "system": "sccl",
-      "start": "2026-11-07T11:00:00-08:00",
-      "end": "2026-11-07T11:30:00-08:00",
-      "age": "family",
-      "location": "Milpitas Library, 160 N Main St, Milpitas CA 95035",
-      "registration_required": false,
-      "description": "Family storytime for all ages"
-    },
-    {
-      "uid": "lib-kids-20261107-1100-saratoga@playground.local",
-      "title": "Family Storytime",
-      "branch": "saratoga",
-      "system": "sccl",
-      "start": "2026-11-07T11:00:00-08:00",
-      "end": "2026-11-07T11:30:00-08:00",
-      "age": "family",
-      "location": "Saratoga Library, 13650 Saratoga Ave, Saratoga CA 95070",
-      "registration_required": false,
-      "description": "Family storytime for all ages"
-    },
     {
       "uid": "lib-kids-20261110-1030-cupertino@playground.local",
       "title": "Toddler Storytime",
@@ -203,19 +11,7 @@
       "age": "toddler",
       "location": "Cupertino Library, 10800 Torre Ave, Cupertino CA 95014",
       "registration_required": false,
-      "description": "Storytime for toddlers"
-    },
-    {
-      "uid": "lib-kids-20261110-1030-milpitas@playground.local",
-      "title": "Baby Bouncers Lapsit",
-      "branch": "milpitas",
-      "system": "sccl",
-      "start": "2026-11-10T10:30:00-08:00",
-      "end": "2026-11-10T11:00:00-08:00",
-      "age": "baby",
-      "location": "Milpitas Library, 160 N Main St, Milpitas CA 95035",
-      "registration_required": false,
-      "description": "Baby lapsit and bouncing program"
+      "description": "Storytime for toddlers."
     },
     {
       "uid": "lib-kids-20261110-1900-cupertino@playground.local",
@@ -227,7 +23,19 @@
       "age": "family",
       "location": "Cupertino Library, 10800 Torre Ave, Cupertino CA 95014",
       "registration_required": false,
-      "description": "Evening bedtime storytime for families"
+      "description": "Evening bedtime storytime for families."
+    },
+    {
+      "uid": "lib-kids-20261110-1030-milpitas@playground.local",
+      "title": "Baby Bouncers Lapsit",
+      "branch": "milpitas",
+      "system": "sccl",
+      "start": "2026-11-10T10:30:00-08:00",
+      "end": "2026-11-10T11:00:00-08:00",
+      "age": "baby",
+      "location": "Milpitas Library, 160 N Main St, Milpitas CA 95035",
+      "registration_required": false,
+      "description": "Lapsit storytime for babies."
     },
     {
       "uid": "lib-kids-20261112-1030-cupertino@playground.local",
@@ -239,7 +47,7 @@
       "age": "baby",
       "location": "Cupertino Library, 10800 Torre Ave, Cupertino CA 95014",
       "registration_required": false,
-      "description": "Storytime for babies"
+      "description": "Storytime for babies."
     },
     {
       "uid": "lib-kids-20261113-1030-central@playground.local",
@@ -251,10 +59,10 @@
       "age": "family",
       "location": "Central Park Library, 2635 Homestead Rd, Santa Clara CA 95051",
       "registration_required": false,
-      "description": "Outdoor storytime for the whole family"
+      "description": "Outdoor storytime for the whole family."
     },
     {
-      "uid": "lib-kids-20261113-1030-central-2@playground.local",
+      "uid": "lib-kids-20261113-1030-central@playground.local",
       "title": "Baby & Me Storytime",
       "branch": "central",
       "system": "sccity",
@@ -263,7 +71,7 @@
       "age": "0-1.5y",
       "location": "Central Park Library, 2635 Homestead Rd, Santa Clara CA 95051",
       "registration_required": false,
-      "description": "Storytime for babies and caregivers"
+      "description": "Storytime for babies and their caregivers."
     },
     {
       "uid": "lib-kids-20261113-1030-northside@playground.local",
@@ -275,7 +83,7 @@
       "age": "family",
       "location": "Northside Branch Library, 695 Moreland Way, Santa Clara CA 95054",
       "registration_required": true,
-      "description": "Family storytime \u2014 registration required"
+      "description": "Family storytime. Registration required."
     },
     {
       "uid": "lib-kids-20261114-1100-cupertino@playground.local",
@@ -287,7 +95,7 @@
       "age": "family",
       "location": "Cupertino Library, 10800 Torre Ave, Cupertino CA 95014",
       "registration_required": false,
-      "description": "Family storytime for all ages"
+      "description": "Family storytime."
     },
     {
       "uid": "lib-kids-20261114-1100-milpitas@playground.local",
@@ -299,7 +107,7 @@
       "age": "family",
       "location": "Milpitas Library, 160 N Main St, Milpitas CA 95035",
       "registration_required": false,
-      "description": "Family storytime for all ages"
+      "description": "Family storytime."
     },
     {
       "uid": "lib-kids-20261114-1100-saratoga@playground.local",
@@ -311,7 +119,7 @@
       "age": "family",
       "location": "Saratoga Library, 13650 Saratoga Ave, Saratoga CA 95070",
       "registration_required": false,
-      "description": "Family storytime for all ages"
+      "description": "Family storytime."
     },
     {
       "uid": "lib-kids-20261117-1030-cupertino@playground.local",
@@ -323,19 +131,7 @@
       "age": "toddler",
       "location": "Cupertino Library, 10800 Torre Ave, Cupertino CA 95014",
       "registration_required": false,
-      "description": "Storytime for toddlers"
-    },
-    {
-      "uid": "lib-kids-20261117-1030-milpitas@playground.local",
-      "title": "Baby Bouncers Lapsit",
-      "branch": "milpitas",
-      "system": "sccl",
-      "start": "2026-11-17T10:30:00-08:00",
-      "end": "2026-11-17T11:00:00-08:00",
-      "age": "baby",
-      "location": "Milpitas Library, 160 N Main St, Milpitas CA 95035",
-      "registration_required": false,
-      "description": "Baby lapsit and bouncing program"
+      "description": "Storytime for toddlers."
     },
     {
       "uid": "lib-kids-20261117-1900-cupertino@playground.local",
@@ -347,7 +143,19 @@
       "age": "family",
       "location": "Cupertino Library, 10800 Torre Ave, Cupertino CA 95014",
       "registration_required": false,
-      "description": "Evening bedtime storytime for families"
+      "description": "Evening bedtime storytime for families."
+    },
+    {
+      "uid": "lib-kids-20261117-1030-milpitas@playground.local",
+      "title": "Baby Bouncers Lapsit",
+      "branch": "milpitas",
+      "system": "sccl",
+      "start": "2026-11-17T10:30:00-08:00",
+      "end": "2026-11-17T11:00:00-08:00",
+      "age": "baby",
+      "location": "Milpitas Library, 160 N Main St, Milpitas CA 95035",
+      "registration_required": false,
+      "description": "Lapsit storytime for babies."
     },
     {
       "uid": "lib-kids-20261118-1030-central@playground.local",
@@ -359,7 +167,7 @@
       "age": "family",
       "location": "Central Park Library, 2635 Homestead Rd, Santa Clara CA 95051",
       "registration_required": false,
-      "description": "Outdoor storytime for the whole family"
+      "description": "Outdoor storytime for the whole family."
     },
     {
       "uid": "lib-kids-20261118-1030-northside@playground.local",
@@ -371,19 +179,7 @@
       "age": "0-1.5y",
       "location": "Northside Branch Library, 695 Moreland Way, Santa Clara CA 95054",
       "registration_required": true,
-      "description": "Storytime for babies and caregivers \u2014 registration required"
-    },
-    {
-      "uid": "lib-kids-20261118-1030-cupertino@playground.local",
-      "title": "Music & Movement",
-      "branch": "cupertino",
-      "system": "sccl",
-      "start": "2026-11-18T10:30:00-08:00",
-      "end": "2026-11-18T11:00:00-08:00",
-      "age": "toddler",
-      "location": "Cupertino Library, 10800 Torre Ave, Cupertino CA 95014",
-      "registration_required": false,
-      "description": "Music and movement for toddlers"
+      "description": "Storytime for babies and their caregivers. Registration required."
     },
     {
       "uid": "lib-kids-20261118-1100-northside@playground.local",
@@ -395,7 +191,7 @@
       "age": "0-1.5y",
       "location": "Northside Branch Library, 695 Moreland Way, Santa Clara CA 95054",
       "registration_required": true,
-      "description": "Storytime for babies and caregivers \u2014 registration required"
+      "description": "Storytime for babies and their caregivers. Registration required."
     },
     {
       "uid": "lib-kids-20261118-1115-northside@playground.local",
@@ -407,7 +203,19 @@
       "age": "toddler",
       "location": "Northside Branch Library, 695 Moreland Way, Santa Clara CA 95054",
       "registration_required": false,
-      "description": "Toddler social play and activities"
+      "description": "Fun playdate for toddlers."
+    },
+    {
+      "uid": "lib-kids-20261118-1030-cupertino@playground.local",
+      "title": "Music & Movement",
+      "branch": "cupertino",
+      "system": "sccl",
+      "start": "2026-11-18T10:30:00-08:00",
+      "end": "2026-11-18T11:00:00-08:00",
+      "age": "toddler",
+      "location": "Cupertino Library, 10800 Torre Ave, Cupertino CA 95014",
+      "registration_required": false,
+      "description": "Music and movement for toddlers."
     },
     {
       "uid": "lib-kids-20261118-1900-cupertino@playground.local",
@@ -419,7 +227,7 @@
       "age": "family",
       "location": "Cupertino Library, 10800 Torre Ave, Cupertino CA 95014",
       "registration_required": false,
-      "description": "Evening goodnight storytime for families"
+      "description": "Evening goodnight storytime for families."
     },
     {
       "uid": "lib-kids-20261119-1030-cupertino@playground.local",
@@ -431,7 +239,7 @@
       "age": "baby",
       "location": "Cupertino Library, 10800 Torre Ave, Cupertino CA 95014",
       "registration_required": false,
-      "description": "Storytime for babies"
+      "description": "Storytime for babies."
     },
     {
       "uid": "lib-kids-20261120-1030-central@playground.local",
@@ -443,10 +251,10 @@
       "age": "family",
       "location": "Central Park Library, 2635 Homestead Rd, Santa Clara CA 95051",
       "registration_required": false,
-      "description": "Outdoor storytime for the whole family"
+      "description": "Outdoor storytime for the whole family."
     },
     {
-      "uid": "lib-kids-20261120-1030-central-2@playground.local",
+      "uid": "lib-kids-20261120-1030-central@playground.local",
       "title": "Baby & Me Storytime",
       "branch": "central",
       "system": "sccity",
@@ -455,7 +263,7 @@
       "age": "0-1.5y",
       "location": "Central Park Library, 2635 Homestead Rd, Santa Clara CA 95051",
       "registration_required": false,
-      "description": "Storytime for babies and caregivers"
+      "description": "Storytime for babies and their caregivers."
     },
     {
       "uid": "lib-kids-20261120-1030-northside@playground.local",
@@ -467,7 +275,7 @@
       "age": "family",
       "location": "Northside Branch Library, 695 Moreland Way, Santa Clara CA 95054",
       "registration_required": true,
-      "description": "Family storytime \u2014 registration required"
+      "description": "Family storytime. Registration required."
     },
     {
       "uid": "lib-kids-20261121-1100-cupertino@playground.local",
@@ -479,7 +287,7 @@
       "age": "family",
       "location": "Cupertino Library, 10800 Torre Ave, Cupertino CA 95014",
       "registration_required": false,
-      "description": "Family storytime for all ages"
+      "description": "Family storytime."
     },
     {
       "uid": "lib-kids-20261121-1100-milpitas@playground.local",
@@ -491,7 +299,7 @@
       "age": "family",
       "location": "Milpitas Library, 160 N Main St, Milpitas CA 95035",
       "registration_required": false,
-      "description": "Family storytime for all ages"
+      "description": "Family storytime."
     },
     {
       "uid": "lib-kids-20261121-1100-saratoga@playground.local",
@@ -503,7 +311,151 @@
       "age": "family",
       "location": "Saratoga Library, 13650 Saratoga Ave, Saratoga CA 95070",
       "registration_required": false,
-      "description": "Family storytime for all ages"
+      "description": "Family storytime."
+    },
+    {
+      "uid": "lib-kids-20261124-1030-cupertino@playground.local",
+      "title": "Toddler Storytime",
+      "branch": "cupertino",
+      "system": "sccl",
+      "start": "2026-11-24T10:30:00-08:00",
+      "end": "2026-11-24T11:00:00-08:00",
+      "age": "toddler",
+      "location": "Cupertino Library, 10800 Torre Ave, Cupertino CA 95014",
+      "registration_required": false,
+      "description": "Storytime for toddlers."
+    },
+    {
+      "uid": "lib-kids-20261124-1900-cupertino@playground.local",
+      "title": "Bedtime Storytime",
+      "branch": "cupertino",
+      "system": "sccl",
+      "start": "2026-11-24T19:00:00-08:00",
+      "end": "2026-11-24T19:30:00-08:00",
+      "age": "family",
+      "location": "Cupertino Library, 10800 Torre Ave, Cupertino CA 95014",
+      "registration_required": false,
+      "description": "Evening bedtime storytime for families."
+    },
+    {
+      "uid": "lib-kids-20261124-1030-milpitas@playground.local",
+      "title": "Baby Bouncers Lapsit",
+      "branch": "milpitas",
+      "system": "sccl",
+      "start": "2026-11-24T10:30:00-08:00",
+      "end": "2026-11-24T11:00:00-08:00",
+      "age": "baby",
+      "location": "Milpitas Library, 160 N Main St, Milpitas CA 95035",
+      "registration_required": false,
+      "description": "Lapsit storytime for babies."
+    },
+    {
+      "uid": "lib-kids-20261125-1030-central@playground.local",
+      "title": "Outdoor Family Storytime",
+      "branch": "central",
+      "system": "sccity",
+      "start": "2026-11-25T10:30:00-08:00",
+      "end": "2026-11-25T11:00:00-08:00",
+      "age": "family",
+      "location": "Central Park Library, 2635 Homestead Rd, Santa Clara CA 95051",
+      "registration_required": false,
+      "description": "Outdoor storytime for the whole family."
+    },
+    {
+      "uid": "lib-kids-20261125-1030-northside@playground.local",
+      "title": "Baby & Me Storytime",
+      "branch": "northside",
+      "system": "sccity",
+      "start": "2026-11-25T10:30:00-08:00",
+      "end": "2026-11-25T11:00:00-08:00",
+      "age": "0-1.5y",
+      "location": "Northside Branch Library, 695 Moreland Way, Santa Clara CA 95054",
+      "registration_required": true,
+      "description": "Storytime for babies and their caregivers. Registration required."
+    },
+    {
+      "uid": "lib-kids-20261125-1100-northside@playground.local",
+      "title": "Baby & Me Storytime",
+      "branch": "northside",
+      "system": "sccity",
+      "start": "2026-11-25T11:00:00-08:00",
+      "end": "2026-11-25T11:30:00-08:00",
+      "age": "0-1.5y",
+      "location": "Northside Branch Library, 695 Moreland Way, Santa Clara CA 95054",
+      "registration_required": true,
+      "description": "Storytime for babies and their caregivers. Registration required."
+    },
+    {
+      "uid": "lib-kids-20261125-1115-northside@playground.local",
+      "title": "Toddler Playdate",
+      "branch": "northside",
+      "system": "sccity",
+      "start": "2026-11-25T11:15:00-08:00",
+      "end": "2026-11-25T12:00:00-08:00",
+      "age": "toddler",
+      "location": "Northside Branch Library, 695 Moreland Way, Santa Clara CA 95054",
+      "registration_required": false,
+      "description": "Fun playdate for toddlers."
+    },
+    {
+      "uid": "lib-kids-20261125-1030-cupertino@playground.local",
+      "title": "Music & Movement",
+      "branch": "cupertino",
+      "system": "sccl",
+      "start": "2026-11-25T10:30:00-08:00",
+      "end": "2026-11-25T11:00:00-08:00",
+      "age": "toddler",
+      "location": "Cupertino Library, 10800 Torre Ave, Cupertino CA 95014",
+      "registration_required": false,
+      "description": "Music and movement for toddlers."
+    },
+    {
+      "uid": "lib-kids-20261125-1900-cupertino@playground.local",
+      "title": "Goodnight Storytime",
+      "branch": "cupertino",
+      "system": "sccl",
+      "start": "2026-11-25T19:00:00-08:00",
+      "end": "2026-11-25T19:30:00-08:00",
+      "age": "family",
+      "location": "Cupertino Library, 10800 Torre Ave, Cupertino CA 95014",
+      "registration_required": false,
+      "description": "Evening goodnight storytime for families."
+    },
+    {
+      "uid": "lib-kids-20261128-1100-cupertino@playground.local",
+      "title": "Family Storytime",
+      "branch": "cupertino",
+      "system": "sccl",
+      "start": "2026-11-28T11:00:00-08:00",
+      "end": "2026-11-28T11:30:00-08:00",
+      "age": "family",
+      "location": "Cupertino Library, 10800 Torre Ave, Cupertino CA 95014",
+      "registration_required": false,
+      "description": "Family storytime."
+    },
+    {
+      "uid": "lib-kids-20261128-1100-milpitas@playground.local",
+      "title": "Family Storytime",
+      "branch": "milpitas",
+      "system": "sccl",
+      "start": "2026-11-28T11:00:00-08:00",
+      "end": "2026-11-28T11:30:00-08:00",
+      "age": "family",
+      "location": "Milpitas Library, 160 N Main St, Milpitas CA 95035",
+      "registration_required": false,
+      "description": "Family storytime."
+    },
+    {
+      "uid": "lib-kids-20261128-1100-saratoga@playground.local",
+      "title": "Family Storytime",
+      "branch": "saratoga",
+      "system": "sccl",
+      "start": "2026-11-28T11:00:00-08:00",
+      "end": "2026-11-28T11:30:00-08:00",
+      "age": "family",
+      "location": "Saratoga Library, 13650 Saratoga Ave, Saratoga CA 95070",
+      "registration_required": false,
+      "description": "Family storytime."
     }
   ]
 }
